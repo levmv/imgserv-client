@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace app\components;
+namespace levmv\imgserv;
 
 use mii\core\Component;
 use mii\log\Log;
