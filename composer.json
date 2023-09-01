@@ -1,0 +1,16 @@
+{
+  "name": "levmv/imgserv-client",
+  "type": "library",
+  "description": "mii component for imgserv",
+  "keywords": [],
+  "homepage": "https://github.com/levmv/imgserv-client",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.0",
+    "levmv/mii-rest": "dev-master"
+  },
+  "autoload": {
+    "classmap" : ["Imgserv.php"]
+  }
+}
